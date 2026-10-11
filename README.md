@@ -1,6 +1,7 @@
 <img src="./banner.png" width="100%" alt="Mayesha Sultana Banner">
 Hi, I'm Mayesha Sultana 👋
- CSE Student | Aspiring Software Developer
+
+CSE Student | Aspiring Software Developer
 
  👩‍💻 About Me
 
@@ -15,7 +16,9 @@ I am a Computer Science and Engineering student interested in web development. I
 
  🛠️ Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,react,nodejs,git,github,vscode)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,react,tailwind,nodejs,git,github,vscode)](https://skillicons.dev)
+
 
  🌐 Connect With Me
 
