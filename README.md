@@ -1,4 +1,5 @@
- Hi, I'm Mayesha Sultana 👋
+<img src="./Mayesha Sultana.png" width="180" alt="Mayesha Sultana">
+Hi, I'm Mayesha Sultana 👋
  CSE Student | Aspiring Software Developer
 
  👩‍💻 About Me
