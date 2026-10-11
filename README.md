@@ -1,4 +1,4 @@
-<img src="./Mayesha Sultana.png" width="180" alt="Mayesha Sultana">
+<img src="./Mayesha%20Sultana.png" width="350" alt="Mayesha Sultana">
 Hi, I'm Mayesha Sultana 👋
  CSE Student | Aspiring Software Developer
 
